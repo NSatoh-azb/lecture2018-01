@@ -1,0 +1,8 @@
+setup.py
+turtlesvg/turtlesvg.py
+turtlesvg/svgutl/__init__.py
+turtlesvg/svgutl/svgutl.py
+turtlesvg/turtlesvg.egg-info/PKG-INFO
+turtlesvg/turtlesvg.egg-info/SOURCES.txt
+turtlesvg/turtlesvg.egg-info/dependency_links.txt
+turtlesvg/turtlesvg.egg-info/top_level.txt
